@@ -8,6 +8,8 @@ Links:
  (Policy gradient methods)
  https://arxiv.org/abs/1506.02438
  
+- Ng's thesis http://www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf
+
 -
 
 OpenAI:
