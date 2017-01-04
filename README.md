@@ -10,7 +10,8 @@ Links:
  
 - Ng's thesis http://www.cs.ubc.ca/~nando/550-2006/handouts/andrew-ng.pdf
 
--
+TODO:
+- https://openai.com/blog/infrastructure-for-deep-learning/
 
 OpenAI:
 
