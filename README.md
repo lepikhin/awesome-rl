@@ -12,6 +12,7 @@ Links:
 
 TODO:
 - https://openai.com/blog/infrastructure-for-deep-learning/
+- http://media.wix.com/ugd/142eb4_2d87bc61ca36499cad7206805a3732d6.pdf from http://www.bayareadlschool.org/schedule
 
 OpenAI:
 
